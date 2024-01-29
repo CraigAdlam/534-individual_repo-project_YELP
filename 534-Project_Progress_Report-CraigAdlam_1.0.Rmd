@@ -1,0 +1,60 @@
+---
+title: "University of British Columbia - Okanagan"
+author: "Craig Adlam (48226583)"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Date: 2024/01/28
+- Discussed/confirmed workflow requirements (Step 2)  
+- Reviewed Yelp API function in R code to prepare for testing  
+- Created unittests to test the function AnalyzeRatings
+
+Date: 2024/01/25  
+- Created function in Python to retrieve data from Yelp  
+- Converted to R code once output confirmed  
+- Added plotting functionality in R code  
+- Git add, commit, push code using CraigBranch  
+- Gathered our ideas & wrote proposal for Yelp API  
+
+Date: 2024/01/24  
+- Suggested Yelp APIs to group members  
+- Explored Yelp APIs  
+- Tested Yelp APIs  
+- Brainstormed ideas for wrapping Yelp APIs  
+
+Date: 2024/01/21  
+- Explored Covid-19 APIs suggested by group  
+- Explored NHL APIs, tested one in Python  
+- Added NHL APIs to brainstorming document  
+
+Date: 2024/01/19  
+- Looked over project requirements  
+- Checked group ideas and code  
+- Explored PubMed APIs suggested by group  
+
+Date: 2024/01/15  
+- Explored API examples from word document  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
